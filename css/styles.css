@@ -1,0 +1,24 @@
+body{
+    background-color: gold;
+}
+h1{
+    color: blue;
+    font-style: italic;
+}
+label{
+    color: red;
+    font-size: 20px;
+    font-style: italic;
+}
+input{
+    color: green;
+    font-size: 20px;
+    font-style: italic;
+    background-color: darkblue;
+}
+option{
+    background-color: darkred;
+}
+.btn{
+    background-color: red;
+}
